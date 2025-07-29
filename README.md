@@ -39,5 +39,6 @@ It simulates a real-world railway reservation system using a simple GUI interfac
 - **JavaFX** for GUI
 - **Notepad** for code editing
 - **Command Prompt** for compiling and running
+- **CSS** for styling
 
 ---
